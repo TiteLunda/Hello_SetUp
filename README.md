@@ -27,7 +27,7 @@
 
 # 📖 [Hello-World] <a name="about-project"></a>
 
-This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling for giving the text a color.
+This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling .
 
 ## 🛠 Built With <a name="built-with"></a>
   -CSS3
